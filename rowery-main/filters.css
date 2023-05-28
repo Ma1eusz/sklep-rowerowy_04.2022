@@ -1,0 +1,53 @@
+.filters-container{
+    width: 300px;
+    margin-left: 140px;
+    margin-top: 90px;
+}
+
+.filters{
+    width: 300px;
+    padding: 10px;
+    margin-top: 30px;
+    border: 0.1rem solid #aeb1b3;
+    border-radius: 5px;
+    font-size: 20pt;
+    float: left;
+    display: grid;
+}
+
+.searchTerm{
+    width: 275px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 2px 2px 2px 5px;
+    border: 0.1rem solid #aeb1b3;
+}
+
+.SearchBtn{
+    width: 275px;
+    height: 30px;
+    background-color: #2497e3;
+    color: #FFF;
+    border: 0.1rem solid #aeb1b3;
+    margin: 0 auto;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+
+li{
+   list-style: none; 
+}
+
+li a{
+    color: black;
+    font-size: 15pt;
+}
+
+li a:hover{
+    color: #2497e3;
+}
+
+
